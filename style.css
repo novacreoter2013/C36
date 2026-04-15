@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#dice{
+    font-size: 320px;
+}
+
+
+#dice:hover{
+    cursor: pointer;
+}
